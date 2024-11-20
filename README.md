@@ -8,7 +8,7 @@ Atualmente, estou participando de competições no Kaggle, com destaque para o p
 
 Como professor de física e matemática, desenvolvi uma habilidade forte em comunicar conceitos complexos de maneira simples, o que acredito ser crucial no trabalho em equipe, especialmente em projetos de ciência de dados que envolvem a colaboração entre diferentes áreas.
 
-Estou entusiasmado em aplicar essas habilidades na prática e acredito que posso ajudar sua empresa a resolver os desafios propostos na vaga, especialmente no que diz respeito à análise de dados e desenvolvimento de soluções baseadas em machine learning. Meu foco é trazer insights valiosos e contribuir para tomadas de decisões mais informadas e estratégicas.
+Estou entusiasmado em aplicar essas habilidades na prática e acredito que posso ajudar sua empresa a resolver seus desafios, especialmente no que diz respeito à análise de dados e desenvolvimento de soluções baseadas em machine learning. 
 
 <p align="left">
     <a href="https://github.com/GuilhermeSousaF">
